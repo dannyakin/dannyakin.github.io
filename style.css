@@ -266,6 +266,12 @@ section .button button:hover{
   color: #4070f4;
 }
 
+/* JavaScript Skills CSS */
+.js-skills{
+  background: #F0F8FF;
+
+}
+
  /* My Skills CSS */
  .skills{
    background: #F0F8FF;
